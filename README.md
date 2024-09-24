@@ -5,6 +5,8 @@ Live web app link: https://musk12-laptop-price-detector.hf.space/
 
 A machine learning-powered web app that predicts laptop prices based on various specifications such as storage type, RAM, processor, screen size, etc. Built using Streamlit for the interface and deployed on Hugging Face Spaces for easy accessibility.
 
+I have deployed this Laptop Price Predictor web app with a machine learning model that achieves an impressive 90% R² score(0.90028), indicating high prediction accuracy. The model has been trained on a comprehensive dataset of laptop specifications.
+
 ![laptop_overview](https://github.com/user-attachments/assets/942e0aa4-ffad-43af-8f77-62556235d688)
 
 ### 📌 Features:
